@@ -135,7 +135,7 @@ html{
     position: relative;
     margin-top: 40px;
     padding-top: 54%;
-    background: url(/assets/img/1111.png) center / contain no-repeat;
+    background: url(..../assets/img/1111.png) center / contain no-repeat;
 }
 .text{
     position: absolute;
